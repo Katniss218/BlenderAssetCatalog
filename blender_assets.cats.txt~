@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+767f7db0-3f35-47de-b024-5c4151c0e413:KSPMaterials:KSPMaterials
+6db6a735-d722-403a-8576-382ad27adfa6:KSPMaterials/___BAKE:KSPMaterials-___BAKE
+354f2edf-8ebe-4cb1-93de-7455b2be235e:KSPMaterials/_bSources:KSPMaterials-_bSources
